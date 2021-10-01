@@ -1,1 +1,2 @@
-# MovieGenreClassfication
+# MovieClassfication
+ Assignment of Text Analytics
